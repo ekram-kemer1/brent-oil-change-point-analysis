@@ -1,0 +1,15 @@
+{
+  "price_model": {
+    "tau_date": "2005-03-31",
+    "mu_1": 21.469,
+    "mu_2": 75.7,
+    "pct_change": 252.6,
+    "r_hat_ok": true
+  },
+  "return_model": {
+    "tau_date": "2011-05-31",
+    "nearest_event": "Arab Spring / Libyan Civil War",
+    "days_from_event": 105,
+    "note": "Wide credible interval (HDI 15-425 months) and low ESS (~70) indicate low confidence in this specific date; included for completeness, not as a strong finding."
+  }
+}
